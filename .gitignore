@@ -1,1 +1,27 @@
 venv/
+
+# compiled output
+/client/dist
+/client/tmp
+/client/out-tsc
+
+# dependencies
+/client/node_modules
+
+# misc
+/client/.sass-cache
+/client/connect.lock
+/client/coverage
+/client/libpeerconnection.log
+/clientnpm-debug.log
+/clienttestem.log
+/client/typings
+/client/docs
+
+# e2e
+/client/e2e/*.js
+/client/e2e/*.map
+
+# System Files
+/client.DS_Store
+/clientThumbs.db
